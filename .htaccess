@@ -1,0 +1,15 @@
+# Uncomment the following to prevent the httpoxy vulnerability
+# See: https://httpoxy.org/
+#<IfModule mod_headers.c>
+#    RequestHeader unset Proxy
+#</IfModule>
+
+<IfModule mod_rewrite.c>
+    RewriteEngine on
+    RewriteRule    ^$    webroot/    [L]
+    RewriteRule    (.*) webroot/$1    [L]
+
+    #RewriteCond %{SERVER_PORT} 80
+    #RewriteRule ^(.*)$ https://my.zippedi.com/$1 [R,L] 
+</IfModule>
+

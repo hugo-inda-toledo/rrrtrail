@@ -1,0 +1,1385 @@
+### Login
+
+msgid "Please sign in"
+msgstr "Por favor, inicia sesión"
+
+msgid "Email"
+msgstr "Correo electrónico"
+
+msgid "Password"
+msgstr "Contraseña"
+
+msgid "Remember me"
+msgstr "Recuerdame"
+
+msgid "Login"
+msgstr "Inicia sesión"
+
+### Error Pages
+
+msgid "Page not found"
+msgstr "Página no encontrada"
+
+msgid "We're sorry, we couldn't find the page you requested"
+msgstr "Lo sentimos, no pudimos encontrar la página solicitada"
+
+msgid "Within a few seconds you will be redirected to the previous page"
+msgstr "En unos segundos será redirigido a la página anterior"
+
+### Auth Flash
+
+msgid "You must login to see the content"
+msgstr "Debes iniciar sección para ver el contenido"
+
+### Store Details
+
+msgid "Products Information for {0}"
+msgstr "Información de productos para el {0}"
+
+msgid "Product internal code"
+msgstr "Codigo interno del producto"
+
+msgid "Product name"
+msgstr "Nombre del producto"
+
+msgid "Finded by Zippedi"
+msgstr "Encontrado por Zippedi"
+
+msgid "Actions"
+msgstr "Acciones"
+
+msgid "Yes"
+msgstr "Si"
+
+msgid "First page"
+msgstr "Primera página"
+
+msgid "Previous page"
+msgstr "Página anterior"
+
+msgid "Next page"
+msgstr "Siguiente página"
+
+msgid "Last page"
+msgstr "Última página"
+
+msgid "Page {0} of {1}, showing {2} records out of {3} total."
+msgstr "Página {0} de {1}, mostrando {2} registros de un total de {3} registros."
+
+msgid "Store information"
+msgstr "Información de la tienda"
+
+msgid "Chain: {0}"
+msgstr "Cadena: {0}"
+
+msgid "Store name: {0}"
+msgstr "Nombre de la tienda: {0}"
+
+msgid "Store code: {0}"
+msgstr "Código de la tienda: {0}"
+
+msgid "Address: {0}"
+msgstr "Dirección: {0}"
+
+msgid "Commune: {0}"
+msgstr "Comuna: {0}"
+
+msgid "Region: {0}"
+msgstr "Región: {0}"
+
+msgid "Country: {0}"
+msgstr "Pais: {0}"
+
+msgid "Shortcuts"
+msgstr "Atajos"
+
+msgid "Assortment report for {0}"
+msgstr "Reporte de surtido para {0}"
+
+msgid "Price difference report for {0}"
+msgstr "Reporte de diferencia de precio para {0}"
+
+msgid "There is still no data of the day for the {0} store"
+msgstr "Aún no hay datos del día para la tienda {0}"
+
+
+## Assortment report
+msgid "Products not found in room - Section {0}: {1}"
+msgstr "Productos no encontrados en sala - Sección {0}: {1}"
+
+msgid "Total room"
+msgstr "Total sala"
+
+msgid "Founded"
+msgstr "Encontrados"
+
+msgid "Not founded"
+msgstr "No encontrados"
+
+msgid "Quantity"
+msgstr "Cantidad"
+
+msgid "Cataloged without blocking"
+msgstr "Catalogados sin bloqueo"
+
+msgid "Cataloged with blocking"
+msgstr "Catalogados con bloqueo"
+
+msgid "Discontinued with stock (Theoretical)"
+msgstr "Descatalogados con stock (Teorico)"
+
+msgid "Room"
+msgstr "Sala"
+
+msgid "We are processing your report, please wait a moment"
+msgstr "Estamos procesando tu reporte, por favor espera un momento"
+
+msgid "Select the corresponding parameters to obtain the report"
+msgstr "Selecciona los parámetros correspondientes para obtener el reporte"
+
+msgid "Required"
+msgstr "Requerido"
+
+msgid "Company"
+msgstr "Empresa"
+
+msgid "Select a company"
+msgstr "Selecciona una empresa"
+
+msgid "Store"
+msgstr "Tienda"
+
+msgid "Select a store"
+msgstr "Selecciona una tienda"
+
+msgid "Section"
+msgstr "Sección"
+
+msgid "Select a section"
+msgstr "Selecciona una sección"
+
+msgid "Report date"
+msgstr "Fecha del reporte"
+
+msgid "Generate"
+msgstr "Generar"
+
+msgid "Assortment Report"
+msgstr "Reporte de Surtido"
+
+msgid "{0} Category: {1}"
+msgstr "Categoría {0}: {1}"
+
+msgid "{0} {1} - Assortment Report - Between {2} to {3}"
+msgstr "{0} {1} - Reporte de Surtido - Entre el {2} y el {3}"
+
+msgid "No exist stores from this company"
+msgstr "No existen tiendas para esta empresa"
+
+msgid "No exist sections from this company"
+msgstr "No existen secciones para esta empresa"
+
+msgid "Download Excel"
+msgstr "Descargar Excel"
+
+msgid "Download PDF"
+msgstr "Descargar PDF"
+
+msgid "Internal code"
+msgstr "Código interno"
+
+msgid "No info"
+msgstr "No hay información"
+
+msgid "Need to implement"
+msgstr "Se necesita implementar"
+
+msgid "Need to buy"
+msgstr "Se necesita comprar"
+
+msgid "No data"
+msgstr "No hay datos"
+
+msgid "Stock Alert Report"
+msgstr "Reporte Alerta de Reposición"
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+
+
+### Vertical menu
+
+msgid "Map"
+msgstr "Mapa"
+
+msgid "Reports"
+msgstr "Reportes"
+
+### Vertical menu
+
+msgid "Price Difference Report"
+msgstr "Reporte de Diferencia de Precio"
+
+msgid "Products with difference pricing"
+msgstr "Productos con diferencia de precio"
+
+msgid "{0} Section"
+msgstr "Sección {0}"
+
+msgid "{0} Section ({1} products)"
+msgstr "Sección {0} ({1} productos)"
+
+msgid "Int. Code"
+msgstr "Código Interno"
+
+msgid "Price Image"
+msgstr "Imagen Precio"
+
+msgid "Product description"
+msgstr "Descripción del producto"
+
+msgid "Description"
+msgstr "Descripción"
+
+msgid "Detected price"
+msgstr "Precio detectado"
+
+msgid "Readed price"
+msgstr "Precio leído"
+
+msgid "Master price"
+msgstr "Precio de la maestra"
+
+msgid "Correct price"
+msgstr "Precio correcto"
+
+msgid "Aisle"
+msgstr "Pasillo"
+
+msgid "Last price change"
+msgstr "Último cambio de precio"
+
+msgid "Days with difference"
+msgstr "Días de diferencia"
+
+msgid "Details"
+msgstr "Detalles"
+
+msgid "No available"
+msgstr "No disponible"
+
+msgid "Show Labels"
+msgstr "Mostrar etiquetas"
+
+msgid "No price differences for "{0}" section. API Message: {1}"
+msgstr "No hay diferencias de precio para la sección {0}. Mensaje de la API: {1}"
+
+msgid "No price differences for "{0}" section."
+msgstr "No hay diferencias de precio para la sección {0}"
+
+msgid "Product analysis by Zippedi"
+msgstr "Análisis del producto por Zippedi"
+
+msgid "Product Information"
+msgstr "Información del Producto"
+
+msgid "Session date"
+msgstr "Fecha de la sesión"
+
+msgid "Code Image"
+msgstr "Imagen Código"
+
+msgid "Price Capture"
+msgstr "Imagen Precio"
+
+msgid "Close"
+msgstr "Cerrar"
+
+msgid "No data for "{0}" session to generate the report"
+msgstr "No hay información de la sesión del {0} para generar el reporte"
+
+#Robot reports main
+
+msgid "Report showing the products that zippedi did not see in the room"
+msgstr "Reporte que muestra los productos que zippedi no vio en la sala"
+
+msgid "Report showing the products that zippedi detected a price difference against the real price"
+msgstr "Reporte que muestra los productos que Zippedi detectó una diferencia de precio con respecto al precio real"
+
+msgid "Report showing the products that zippedi detected that must be replaced"
+msgstr "Reporte que muestra los productos que Zippedi detectó que se deben reponer"
+
+msgid "Facing Image"
+msgstr "Imagen Facing"
+
+msgid "Ok, restored"
+msgstr "Ok, lo repuse"
+
+msgid "Problem"
+msgstr "Problema"
+
+msgid "Request"
+msgstr "Pedir"
+
+msgid "Puts Label"
+msgstr "Poner Fleje"
+
+msgid "Implement"
+msgstr "Implementar"
+
+msgid "Clean Master"
+msgstr "Limpiar Maestra"
+
+msgid "Set status"
+msgstr "Cambiar estado"
+
+msgid "Blocked"
+msgstr "Bloqueado"
+
+msgid "Adjust Inventory"
+msgstr "Ajustar Inventario"
+
+msgid "Inventory must be adjusted for erroneous data"
+msgstr "Se debe ajustar inventario por datos errones"
+
+msgid "Report between {0} to {1}"
+msgstr "Reporte entre el {0} y el {1}"
+
+msgid "No data for dates between {0} and {1} to generate the report"
+msgstr "No hay información para las fechas entre el {0} y el {1} para generar el reporte"
+
+msgid "Session for {0}"
+msgstr "Sesión del {0}"
+
+msgid "Show details"
+msgstr "Mostrar detalles"
+
+msgid "Hide details"
+msgstr "Ocultar detalles"
+
+msgid "Products with stock out alert"
+msgstr "Productos con alerta de reposición"
+
+msgid "Without status"
+msgstr "Sin estado"
+
+msgid "Download .inv"
+msgstr "Descargar .inv"
+
+msgid "Section {0}: {1}"
+msgstr "Sección {0}: {1}"
+
+msgid "Lineal meter"
+msgstr "Metro lineal"
+
+msgid "Height tray"
+msgstr "Altura bandeja"
+
+msgid "Status"
+msgstr "Estado"
+
+msgid "Image"
+msgstr "Imagen"
+
+msgid "Last Update: {0}"
+msgstr "Última actualización: {0}"
+
+msgid "Refresh data"
+msgstr "Actualizar datos"
+
+msgid "When updating the report, all the information associated with it (Information and images that Zippedi saw,  besides the cache) will be erased and will be generated with the most updated information, This can take a couple of minutes."
+msgstr "Al actualizar el reporte, toda la información asociada al él (Información é imagenes que Zippedi vió, además del cache) se borrará y se regenerará con la información más actualizada. Esto puede tomar un par de minutos."
+
+msgid "Update now"
+msgstr "Actualizar ahora"
+
+msgid "Are you sure refresh the information?"
+msgstr "¿Estas seguro de actualizar la información?"
+
+msgid "Close"
+msgstr "Cerrar"
+
+msgid "Stock In Room"
+msgstr "Stock En Sala"
+
+msgid "Stock In Warehouse"
+msgstr "Stock En Bodega"
+
+msgid "Stock In Transit"
+msgstr "Stock En Transito"
+
+msgid "Alerts last 30 days"
+msgstr "Alertas en los últimos 30 días"
+
+msgid "List"
+msgstr "Lista"
+
+msgid "Photos"
+msgstr "Fotos"
+
+msgid "Report details"
+msgstr "Detalles del reporte"
+
+msgid "Report overview: [{0}] {1} - {2}"
+msgstr "Resumen del reporte: [{0}] {1} - {2}"
+
+msgid "Detections"
+msgstr "Detecciones"
+
+msgid "products"
+msgstr "productos"
+
+msgid "All"
+msgstr "Todo"
+
+msgid "days with difference"
+msgstr "días de diferencia"
+
+msgid "Price alert"
+msgstr "Alerta de precio"
+
+msgid "Price difference report"
+msgstr "Reporte de diferencia de precio"
+
+msgid "Price alert"
+msgstr "Alerta de precio"
+
+msgid "This product has a price difference greater than 2 days"
+msgstr "Este producto tiene una diferencia de precio mayor a 2 días"
+
+msgid "Hey"
+msgstr "Oye"
+
+msgid "Sections"
+msgstr "Secciones"
+
+msgid "Grid"
+msgstr "Cuadrilla"
+
+msgid "list"
+msgstr "lista"
+
+msgid "grid"
+msgstr "cuadrilla"
+
+msgid "Last Stock: {0} ({1})"
+msgstr "Último Stock: {0} ({1})"
+
+msgid "No alerts"
+msgstr "Sin alertas"
+
+msgid "alerts"
+msgstr "alertas"
+
+msgid "alert"
+msgstr "alerta"
+
+msgid "This product has {0} stock alert in the last 30 days"
+msgstr "Este producto tiene {0} alerta de stock en los ultimos 30 dias"
+
+msgid "This product has {0} stock alerts in the last 30 days"
+msgstr "Este producto tiene {0} alertas de stock en los ultimos 30 dias"
+
+msgid "Total read strips"
+msgstr "Total de flejes leídos"
+
+msgid "Read strips with difference price"
+msgstr "Flejes leídos con diferencias de precio"
+
+msgid "Total products with difference price"
+msgstr "Total de productos con diferencia de precio"
+
+msgid "Products without price"
+msgstr "Productos sin precio"
+
+msgid "Detections with stock alert"
+msgstr "Detecciones con alerta de reposición"
+
+msgid "Products with stock alert"
+msgstr "Productos con alerta de reposición"
+
+msgid "Products with stock alert in the last 30 days"
+msgstr "Productos con alerta de reposición en los últimos 30 dias"
+
+msgid "Assortment"
+msgstr "Surtido"
+
+msgid "Price Differences"
+msgstr "Diferencias de Precio"
+
+msgid "Stock Alerts"
+msgstr "Alertas de Reposición"
+
+msgid "Products with more than 1 alert in the last 30 days"
+msgstr "Productos con más de 1 alerta en los últimos 30 días"
+
+msgid "Compliance Percentage"
+msgstr "Porcentaje de Cumplimiento"
+
+msgid "Products in master"
+msgstr "Productos en la maestra"
+
+msgid "Correctly readed products"
+msgstr "Productos correctamene leídos"
+
+msgid "Not readed products"
+msgstr "Productos no leídos"
+
+msgid "Readed discontinued products"
+msgstr "Productos leídos descontinuados"
+
+msgid "Readed blocked products"
+msgstr "Productos leídos bloqueados"
+
+msgid "Unreaded blocked products"
+msgstr "Productos no leídos bloquados"
+
+msgid "Omitted products by offers"
+msgstr "Productos omitidos por ofertas"
+
+msgid "Category"
+msgstr "Categoría"
+
+msgid "Select a category"
+msgstr "Selecciona una categoría"
+
+msgid "Report summary between {0} to {1}"
+msgstr "Resumen del reporte entre el {0} y el {1}"
+
+msgid "Assortment report"
+msgstr "Reporte de surtido"
+
+msgid "Readed labels"
+msgstr "Flejes leídos"
+
+msgid "Readed labels with difference price"
+msgstr "Flejes leídos con diferencia de precio"
+
+msgid "Products with difference price"
+msgstr "Productos con diferencia de precio"
+
+msgid "Aisle: {0} ({1} products)"
+msgstr "Pasillo: {0} ({1} productos)"
+
+msgid "{0} products in {1} labels"
+msgstr "{0} productos en {1} flejes"
+
+msgid "Readed labels excluded by offers"
+msgstr "Flejes leídos excluídos por ofertas"
+
+msgid "Unknown"
+msgstr "Desconocida"
+
+msgid "Last session: {0}"
+msgstr "Última sesión: {0}"
+
+msgid "Stock Alerts"
+msgstr "Alertas de Reposición"
+
+msgid "Price Differences"
+msgstr "Diferencias de Precio"
+
+msgid "My Stores"
+msgstr "Mis Tiendas"
+
+msgid "Labels with difference pricing"
+msgstr "Flejes con diferencia de precio"
+
+msgid "Section: {0} {1}"
+msgstr "Sección: {0} {1}"
+
+msgid "Sessions"
+msgstr "Sesiones"
+
+msgid "Select a session"
+msgstr "Selecciona una sesión"
+
+msgid "High level report"
+msgstr "Reporte de álto nivel"
+
+msgid "Analized aisles"
+msgstr "Pasillos analizados"
+
+msgid "Correctly readed labels"
+msgstr "Flejes correctamente leídos"
+
+msgid "Audited products"
+msgstr "Productos auditados"
+
+msgid "Price differences"
+msgstr "Diferencias de precio"
+
+msgid "Stock alerts"
+msgstr "Alertas de reposición"
+
+msgid "Assortment compliance"
+msgstr "Cumplimiento surtido"
+
+msgid "Overview"
+msgstr "Visión general"
+
+msgid "Session date"
+msgstr "Fecha de la sesión"
+
+msgid "Readed labels"
+msgstr "Flejes leídos"
+
+msgid "Audited products"
+msgstr "Productos auditados"
+
+msgid "Label Image"
+msgstr "Imagen del fleje"
+
+msgid "Label Information"
+msgstr "Información del fleje"
+
+msgid "Place the mouse on the image to zoom"
+msgstr "Coloque el mouse sobre la imagen para realizar zoom"
+
+msgid "[Stock Alert Report] {0} - {1}({2}) / {3}"
+msgstr "[Reporte Alerta de Reposición] {0} - {1}({2}) / {3}"
+
+msgid "Session loaded"
+msgstr "Sesión cargada"
+
+msgid "This is a summary of the session {0}, {1} {2} ({3})"
+msgstr "Este es un resumen de la sesión {0}, {1} {2} ({3})"
+
+msgid "Labels with price differences"
+msgstr "Flejes con diferencia de precio"
+
+msgid "Products with price differences"
+msgstr "Productos con diferencia de precio"
+
+msgid "{0} {1} Price Differences {2} {3}"
+msgstr "{0} {1} Diferencias de Precio {2} {3}"
+
+msgid "{0} {1} Stock Alerts {2} {3}"
+msgstr "{0} {1} Alertas de Reposición {2} {3}"
+
+msgid "The information contained in this message (including any attachments) is confidential and exclusive to its recipients, and the personal responsibility of its issuer. We also warn that this message may contain information protected by legal rules, so its disclosure, copying, reproduction and distribution is expressly prohibited and may be sanctioned. If you have received this message in error, please notify the sender and delete this email and all attachments."
+msgstr "La información contenida en este mensaje (incluidos los archivos adjuntos) es confidencial y exclusiva para sus destinatarios, y la responsabilidad personal de su emisor. También advertimos que este mensaje puede contener información protegida por normas legales, por lo que su divulgación, copia, reproducción y distribución están expresamente prohibidas y pueden ser sancionadas. Si recibió este mensaje por error, notifique al remitente y elimine este correo electrónico y todos los archivos adjuntos."
+
+msgid "Bar code"
+msgstr "Código de barras"
+
+msgid "Material code"
+msgstr "Cod. Material"
+
+msgid "Less than a 24 hours"
+msgstr "Menos de 24 horas"
+
+msgid "A day ago"
+msgstr "Hace 1 día"
+
+msgid "{0} days ago"
+msgstr "Hace {0} días"
+
+msgid "Available Stock"
+msgstr "Stock Disponible"
+
+msgid "Contact"
+msgstr "Contacto"
+
+msgid "Support"
+msgstr "Soporte"
+
+msgid "The Zippedi Team"
+msgstr "El equipo de Zippedi"
+
+msgid "Today's fulfillment"
+msgstr "Cumplimiento de hoy"
+
+msgid "r / yesterday"
+msgstr "r / ayer"
+
+msgid "Alerts / Readed labels"
+msgstr "Alertas / Flejes Leídos"
+
+msgid "Alerts in last 30 days"
+msgstr "Alertas en los últimos 30 días"
+
+msgid "r / last session"
+msgstr "r / última sesión"
+
+msgid "[Facing] Start - {0} {1}"
+msgstr "[Facing] Inicio - {0} {1}"
+
+msgid "[Facing] End - {0} {1}: {2} detections / {3} detections"
+msgstr "[Facing] Término - {0} {1}: {2} detecciones / {3} detecciones"
+
+msgid "[Price Differences] Start - {0} {1}"
+msgstr "[Diferencias de Precio] Inicio - {0} {1}"
+
+msgid "[Price Differences] End - {0} {1}: {2} labels"
+msgstr "[Diferencias de Precio] Término - {0} {1}: {2} flejes"
+
+msgid "[All detections] Start - {0} {1}"
+msgstr "[Todas las detecciones] Inicio - {0} {1}"
+
+msgid "[All detections] End - {0} {1}: {2} detections"
+msgstr "[Todas las detecciones] Término - {0} {1}: {2} detecciones"
+
+msgid "Cataloged, enabled and with positive stock products not found in room"
+msgstr "Productos catalogados, habilitados y con stock positivo no encontrados en sala"
+
+msgid "Cataloged and enabled products not found in room"
+msgstr "Productos catalogados y habilitados no encontrados en sala"
+
+msgid "Active Assortment Report"
+msgstr "Reporte de Surtido Activo"
+
+msgid "Cataloged, enabled and blocked products with negative or without stock not found in room"
+msgstr "Productos catalogados, habilitados y bloqueados con stock negativo o sin stock no encontrados en sala"
+
+msgid "Blocked Assortment Report"
+msgstr "Reporte de Surtido Bloqueado"
+
+msgid "Negative Assortment Report"
+msgstr "Reporte de Surtido Negativo"
+
+msgid "Cataloged and blocked products with stock equal to or greater than zero not found in room"
+msgstr "Productos catalogados y bloqueados con stock igual o mayor a cero no encontrados en sala"
+
+msgid "Enabled"
+msgstr "Habilitado"
+
+msgid "Cataloged and enabled products in master"
+msgstr "Productos catalogados y habilitados en la maestra"
+
+msgid "All sections"
+msgstr "Todas las secciones"
+
+msgid "{0} {1} Active Assortment {2} {3}"
+msgstr "{0} {1} Surtido Activo {2} {3}"
+
+msgid "Attached are links to get the report assortment of {0} {1} ({2}) of the day {3}"
+msgstr "Se adjuntan los links para obtener el reporte de surtido de {0} {1} ({2}) del día {3}"
+
+msgid "Get XLSX File for {0}"
+msgstr "Obtén el archivo XLSX de {0}"
+
+msgid "Get PDF File for {0}"
+msgstr "Obtén el archivo PDF de {0}"
+
+msgid "[Assorment] Start - {0} {1}"
+msgstr "[Surtido] Inicio - {0} {1}"
+
+msgid "Downloads"
+msgstr "Descargas"
+
+msgid "[Price Differences] End - {0} {1}: {2} labels / {3} labels"
+msgstr "[Diferencias de precio] Fin - {0} {1}: {2} flejes / {3} flejes"
+
+msgid "Yes"
+msgstr "Si"
+
+msgid "Sign up now"
+msgstr "Regístrate ahora"
+
+msgid "{0}, you have received an invitation to join MyZippedi"
+msgstr "{0}, has recibido una invitación para unirte a MyZippedi"
+
+msgid "You have been invited to join to my.zippedi.com, click on the button below to complete your necessary information to continue"
+msgstr "Ha sido invitado para unirte a my.zippedi.com, haga clic en el botón de abajo para completar su información necesaria para continuar"
+
+msgid "You have 24 hours to complete this registration from the time of sending this email, otherwise the invitation will be marked as expired"
+msgstr "Tienes 24 horas para completar este registro desde la hora de envío de este email, en caso contrario la invitación quedará marcada como expirada"
+
+msgid "{0}, you have been invited to my.zippedi.com"
+msgstr "{0}, has sido invitado a my.zippedi.com"
+
+msgid "Name"
+msgstr "Nombre"
+
+msgid "Last name"
+msgstr "Apellido"
+
+msgid "This is your information associated with this invitation"
+msgstr "Esta es tu información asociada esta invitación"
+
+msgid "These are the stores that you will have access"
+msgstr "Estas son las tiendas que tendrás acceso"
+
+msgid "Dear {0}, please validate the information that appears below."
+msgstr "Estimad@ {0}, por favor valide la información que aparece a continuación."
+
+msgid "Then create a password of at least 6 characters to end the process."
+msgstr "Luego cree una contraseña de mínimo 6 caracteres para finalizar con el proceso."
+
+msgid "Then create a password of at least 6 characters to continue."
+msgstr "Luego cree una contraseña de mínimo 6 caracteres para continuar."
+
+msgid "Your personal information"
+msgstr "Tu información personal"
+
+msgid "Create a password of at least 6 characters"
+msgstr "Crea una contraseña de mínimo 6 caracteres"
+
+msgid "It must contain at least one number and one capital letter"
+msgstr "Debe contener al menos un número y una letra mayúscula"
+
+msgid "Join now"
+msgstr "Únete ahora"
+
+msgid "Retype password"
+msgstr "Reescribe la contraseña"
+
+msgid "Password must be at least 6 characters"
+msgstr "La contraseña debe tener al menos 6 caracteres"
+
+msgid "Both passwords must be equals"
+msgstr "Ámbas contraseñas deben ser iguales"
+
+msgid "Password must have at least one upper case letter"
+msgstr "La contraseña debe tener al menos una letra mayúscula"
+
+msgid "Password changed successfully. Please, login now"
+msgstr "Contraseña cambiada con éxito. Por favor, inicie sesión ahora"
+
+msgid "You don't access to management area"
+msgstr "No tienes acceso al área de administración"
+
+msgid "Change password"
+msgstr "Cambiar contraseña"
+
+msgid "Settings"
+msgstr "Ajustes"
+
+msgid "User settings"
+msgstr "Ajustes de usuario"
+
+msgid "Here you can select the reports that you want to receive by email, also you can change your password"
+msgstr "Aquí puedes seleccionar los reportes que quieres que te lleguen por correo electronico, tambien puedes cambiar tu contraseña"
+
+msgid "Save changes"
+msgstr "Guardar cambios"
+
+msgid "Change your password"
+msgstr "Cambia tu contraseña"
+
+msgid "My stores (Retailer)"
+msgstr "Mis tiendas (Retailer)"
+
+msgid "Select the reports that you want to receive in your email"
+msgstr "Selecciona los reportes que deseas recibir en tu correo electronico"
+
+msgid "Validate changes"
+msgstr "Validar cambios"
+
+msgid "Processing"
+msgstr "Procesando"
+
+msgid "You bear in mind that the process of sending reports to your email starts from 05:30 until 14:00 hrs. This may be subject to future changes."
+msgstr "Debes tener en cuenta que el proceso de envio de reportes a tu correo electronico comienza entre las 05:30 hasta las 14:00 hrs. Esto puedo estar sujeto a cambios futuros."
+
+msgid "No changes"
+msgstr "Sin cambios"
+
+msgid "Information updated successfull"
+msgstr "Información actualizada correctamente"
+
+msgid "Password updated successfull"
+msgstr "Contraseña actualizada correctamente"
+
+msgid "Error to update password : {0}"
+msgstr "Error al actualizar la contraseña : {0}"
+
+msgid "Password and information updated successfull"
+msgstr "Contraseña e información actualizada correctamente"
+
+msgid "Information updated successfull. Error on update password: {0}"
+msgstr "Información actualizada correctamente. Error al actualizar contraseña: {0}"
+
+msgid "Password must be at least one number"
+msgstr "La contraseña debe tener al menos un número"
+
+msgid "Logout"
+msgstr "Cerrar sesión"
+
+msgid "[Assorment] End - {0} {1}: {2} catalog products"
+msgstr "[Surtido] Fin - {0} {1}: {2} productos en catálogo"
+
+msgid "[Assortment] Error - {0} {1}: empty response from Zippedi API"
+msgstr "[Surtido] Error - {0} {1}: respuesta vacía o nula desde la API de Zippedi"
+
+msgid "[Facing] Error - {0} {1}: empty response from Zippedi API"
+msgstr "[Facing] Error - {0} {1}: respuesta vacía o nula desde la API de Zippedi"
+
+msgid "[Price Differences] Error - {0} {1}: empty response from Zippedi API"
+msgstr "[Diferencias de precio] Error - {0} {1}: respuesta vacía o nula desde la API de Zippedi"
+
+msgid "[Facing] Error - {0} {1}: Detections have not been added or updated"
+msgstr "[Facing] Error - {0} {1}: No se han agregado ni actualizado las detecciones"
+
+msgid "[Price Differences] Error - {0} {1}: Detections have not been added or updated"
+msgstr "[Price Differences] Error - {0} {1}: No se han guardado ni actualizado las detecciones"
+
+msgid "Users"
+msgstr "Usuarios"
+
+msgid "Last Name"
+msgstr "Apellido"
+
+msgid "Password Changed"
+msgstr "Contraseña Cambiada"
+
+msgid "Status"
+msgstr "Estado"
+
+msgid "Created"
+msgstr "Creado"
+
+msgid "First"
+msgstr "Primera"
+
+msgid "Previous"
+msgstr "Anterior"
+
+msgid "Next"
+msgstr "Siguiente"
+
+msgid "Last"
+msgstr "Última"
+
+msgid "Enabled"
+msgstr "Habilitado"
+
+msgid "Disabled"
+msgstr "Deshabilitado"
+
+msgid "Enable"
+msgstr "Habilitar"
+
+msgid "Disable"
+msgstr "Deshabilitar"
+
+msgid "View"
+msgstr "Ver"
+
+msgid "Delete"
+msgstr "Eliminar"
+
+msgid "Page {{page}} of {{pages}}, showing {{current}} record(s) out of {{count}} total"
+msgstr "Página {{page}} de {{pages}}, mostrando {{current}} registro(s) de un total de {{count}} registros"
+
+msgid "Edit"
+msgstr "Editar"
+
+msgid "Add user"
+msgstr "Agregar usuario"
+
+msgid "List users"
+msgstr "Listar usuarios"
+
+msgid "Companies"
+msgstr "Companías"
+
+msgid "Stores"
+msgstr "Tiendas"
+
+msgid "List companies"
+msgstr "Listar companías"
+
+msgid "Aisles"
+msgstr "Pasillos"
+
+msgid "Categories"
+msgstr "Categorías"
+
+msgid "Back To Client Application"
+msgstr "Volver a la Aplicación"
+
+msgid "Products"
+msgstr "Productos"
+
+msgid "Suppliers"
+msgstr "Proveedores"
+
+msgid "Robot Reports"
+msgstr "Reportes del Robot"
+
+msgid "Write your email to request the reset of your password"
+msgstr "Escribe tu correo electrónico para solicitar el reestablecimiento de tu contraseña"
+
+msgid "Back"
+msgstr "Atrás"
+
+msgid "Forgot the password?"
+msgstr "Olvidaste la contraseña?"
+
+msgid "The account for the email {0} is disabled of the platform"
+msgstr "La cuenta para este correo electrónico esta desactivada de la plataforma"
+
+msgid "The instructions to change the password would be send to your email. You have 60 minutos to complete the process"
+msgstr "Las intrucciones para cambiar la contraseña han sido enviadas a tu correo electrónico. Tienes 60 minutos para completar el proceso"
+
+msgid "Sorry, the email not exist in our registers"
+msgstr "Lo siento, el correo electrónico no existe en nuestros registros"
+
+msgid "Password reset request"
+msgstr "Solicitud de restablecimiento de contraseña"
+
+msgid "{0}, you have requested to change your password"
+msgstr "{0}, has solicitado cambiar tu contraseña"
+
+msgid "If you have forgotten your password don't worry, you can change it by clicking on the bottom button"
+msgstr "Si has olvidado tu contraseña no te preocupes, puedes cambiarla haciendo click en el botón de abajo"
+
+msgid "Change your password"
+msgstr "Cambia tu contraseña"
+
+msgid "Remember that you have 60 minutes to make this change otherwise the request will be automatically expire"
+msgstr "Recuerda que tienes 60 minutos para realizar este cambio de otra manera la solicitud quedará automaticamente expirada"
+
+msgid "Have a nice day"
+msgstr "Que tengas un buen día"
+
+msgid "Dear {0}, please create a password of at least 6 characters to continue."
+msgstr "Estimad@ {0}, por favor crea una contraseña de al menos 6 caracteres para continuar."
+
+msgid "Password changed successfull"
+msgstr "Contraseña restablecida con éxito"
+
+msgid "Send"
+msgstr "Envíar"
+
+msgid "The token has expired, please request reset the password again"
+msgstr "El token ha expirado, por favor solicita reestablecer la contraseña nuevamente"
+
+msgid "Not exist password reset request"
+msgstr "No existe la solicitud de reestablecimiento de contraseña"
+
+msgid "Recovery token not found"
+msgstr "Token de recuperación no encontrado"
+
+msgid "Invalid username or password, try again"
+msgstr "Usuario o contraseña invalidas, intentalo nuevamente"
+
+msgid "Suppliers Interface"
+msgstr "Interfáz de Proveedores"
+
+msgid "Retailer Interface"
+msgstr "Interfáz de Retail"
+
+msgid "Less than 24 hours"
+msgstr "Menos de 24 horas"
+
+msgid "Session of {0} for {1} {2} ({3}) [Session code: {4}]"
+msgstr "Sesión del {0} para {1} {2} ({3}) [Código de la sesión: {4}]"
+
+msgid "Ignore report"
+msgstr "Ignorar reporte"
+
+msgid "Reactive report"
+msgstr "Reactivar reporte"
+
+msgid "Are you sure to ignore the next information for load process"
+msgstr "Estas seguro de ignorar la siguiente información para el proceso de carga"
+
+msgid "Report"
+msgstr "Reporte"
+
+msgid "Session"
+msgstr "Sesión"
+
+msgid "Ignore now"
+msgstr "Ignorar ahora"
+
+msgid "Reactive now"
+msgstr "Reactivar ahora"
+
+msgid "Realtime Sessions"
+msgstr "Sesiones en Tiempo Real"
+
+msgid "Showing all active sessions"
+msgstr "Mostrando todas las sesiones activas"
+
+msgid "On real time"
+msgstr "En tiempo real"
+
+msgid "Robot Sessions"
+msgstr "Sesiones del Robot"
+
+msgid "Robot's journey ended {0}"
+msgstr "El recorrido del robot finalizó {0}"
+
+msgid "Robot's journey started {0}"
+msgstr "El recorrido del robot se inició {0}"
+
+msgid "Session started {0}"
+msgstr "Sesión iniciada {0}"
+
+msgid "Start process date"
+msgstr "Fecha de inicio del proceso"
+
+msgid "End process date"
+msgstr "Fecha de término del proceso"
+
+msgid "Total catalogs"
+msgstr "Total catalogados"
+
+msgid "Total readed products"
+msgstr "Total de productos leídos"
+
+msgid "Total not readed products"
+msgstr "Total de productos no leídos"
+
+msgid "Total readed and blocked products"
+msgstr "Total de productos leídos y bloqueados"
+
+msgid "Total not readed and blocked products"
+msgstr "Total de productos no leídos y bloqueados"
+
+msgid "Processing report right now"
+msgstr "Procesando el reporte ahora"
+
+msgid "Not Loaded Yet... {0} empty data attemps"
+msgstr "No cargado aún... {0} intentos de datos vacíos"
+
+msgid "Not Loaded Yet... Waiting"
+msgstr "No cargado aún...  Esperando"
+
+msgid "Ignore report"
+msgstr "Ignorar reporte"
+
+msgid "Report Ignored"
+msgstr "Reporte Ignorado"
+
+msgid "Reactive report"
+msgstr "Reactivar reporte"
+
+msgid "Price Differences Report"
+msgstr "Reporte de Diferencia de Precio"
+
+msgid "Loaded data at {0}"
+msgstr "Datos cargados hace {0}"
+
+msgid "Total labels with price differences"
+msgstr "Total de flejes con diferencia de precio"
+
+msgid "Total products with price differences"
+msgstr "Total de productos con diferencia de precio"
+
+msgid "Total detections with stock alert"
+msgstr "Total de detecciones con alerta de reposición"
+
+msgid "Total products with stock alert"
+msgstr "Total de productos con alerta de reposición"
+
+msgid "Stock Alerts Report"
+msgstr "Reporte de Alertas de Reposición"
+
+msgid "Evolutionary graph of the last 15 sessions"
+msgstr "Gráfica evolutiva de las últimas 15 sesiones"
+
+msgid "Seen labels"
+msgstr "Flejes leídos"
+
+msgid "[Price Differences] {0} {1}: {2} / {3} labels sent to the Sodimac API"
+msgstr "[Diferencias de precio] {0} {1}: {2} / {3} flejes enviados a la API de Sodimac"
+
+msgid "Summary"
+msgstr "Resumen"
+
+msgid "Viewing data from the last session: {0}"
+msgstr "Visualizando la información de la última sesión: {0}"
+
+msgid "Stocks alerts"
+msgstr "Alertas de reposición"
+
+msgid "Calendar"
+msgstr "Calendario"
+
+msgid "Address"
+msgstr "Dirección"
+
+msgid "Store overview"
+msgstr "Descripción general de la tienda"
+
+msgid "Price differences report"
+msgstr "Reporte de diferencia de precio"
+
+msgid "Stocks alert report"
+msgstr "Reporte de alertas de reposición"
+
+msgid "Report uploaded {0}"
+msgstr "Reporte cargado {0}"
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""

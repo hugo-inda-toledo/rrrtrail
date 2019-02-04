@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "cencosud-chile",
+  "private_key_id": "532be363cdb88d07a8b159b8abaec26ef62f7b5d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCuWDMtQrGBG6+C\nPL9TrMc6lIfhIId8d6x385WZhRF6FYw0d3O5++P2vhVZNoo+tWjTazrNHxGicOig\nkgnzfqO0SMv/xgD3h6dEe9GUbNMa0/cPVC7r0fFV5X/0Rn7M7N9lKzRbF9GLas2t\nxAv9rWi9YnSeg1KLlRPjRVjdsMY38gtSao7Dt5DSl+jHLApA5/Z6XsmspkFNT4IU\n/ZQZ+EiRaZwUV/SkXKyW6r8dUyulT2AIYCEXda9aHM4gIawacAxSZxXay0crRUbH\nNdO2YqoXlXTN7s/iuv16EB36W4gH+qMP4kP+zTvuJEMfXpmA+Pj211yI9txq5nYx\n+uxJEV4fAgMBAAECgf8aQMbjHuQeJ7nrH/kK5ua66jc6Yax1lp7FbQAxkGWlsgNM\nyfUObyRn8jiDyT/HQy8PAse60IlioLjzkhrdo92eEOwmewk3URIFllGBpmzWyKyS\nyjlM/fRpQSxC2bsvWE9cKtBv3G0VTucHzZ3ZLRCdvPJXlgyej5Fm8l7R/MmOYGTZ\n5HxCHOKQBMDzyu3JK5nN+LjlPQ41uS+UxPFrD9vPTgTZIywLPi8GhI/FZuR6k0k0\nuWkgQUcHW9ANiyHZR022isUa91E3eRDnK1Za5avH0kwKjsqoc2k9gGul0uhzqbgF\nAhV2khTlVL9ANclG1h578r11HzCv1CmhdgOMaIECgYEA6ncsIZovqSvj1e0ckT0G\nXe6KzHA4Fhc3QU+sVzSfb9yOfhoECPCoJAauAznphiha77ac3lsqw2jre9AYAlzg\n/7jLuTDMx5MB9CPFCmTyiOuU79FegDVIs4lnyuFOos2PLcu5OoL2adKTmJYurkrf\n1hjMmBSgC01KsRRXS59HoT8CgYEAvltxnlnW5ja9JwjMvcFZLWcoGcLovlNRDw+4\ni0vI/gKxeRDnuyT93Kfr9a52JceRsArFN5rq2R3Yh1H/23j6nacijhpnxQQqX/W6\nYunJs7sQM0WNt4esXNU3bOcVjUzlxnxsfnHoqRE0dtcPIs/DffGSxyIHaJ9Z+N7u\niVdAKyECgYEAwb+wzCOpdtY587F4hdwzwrM4JzAkaLzOgD3iYD2v8rQDW9kLtIeJ\nqhuK+EeG3cHDQ4tXnbcgY1H0JeATtwAhPa/rSSE2V0T3vFNCpBA/Cz4BWRteR/vA\nE/xbtJ7yaD4NLv7GFb/a+B92sASKlqRwy266woFor24zZpk0ed0pR+kCgYAHH/sX\ntzsg8MmRrXWkYJlK5sKMfEwj25B8JNV+eT6zqzwjUOuriI3r9WkSkA4iCd89HJoX\nI7hImiJhpkMSXuvafMgBU6GwsSA46USpsSB4lrbbhG3ygaSE8QIbFGctG8S58ixJ\na1APC/LPw+rwHaCulR0uUOrAEr7WXtnE0Dw5oQKBgQDJB/UK1KvDV5uemY0xgXVh\nA1Fvch6GFRpsgOXbnfVo4bp/STwqcIYatDXdCNQvYxutdACyKuet9hMHxrBMv1qZ\nqA8J47m0sYlbEYgUdU1FWfw1izd3qpUgpx8iTXfy0GgEf2RLp1kfkwP8vX3NEK4Q\nKpzCedqHBLDulavQzsh2cw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "test-bigdata-cencosud@cencosud-chile.iam.gserviceaccount.com",
+  "client_id": "107957873076651091011",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/test-bigdata-cencosud%40cencosud-chile.iam.gserviceaccount.com"
+}

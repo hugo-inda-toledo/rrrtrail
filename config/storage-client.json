@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "cencosud-chile",
+  "private_key_id": "ff146b645e4c7834723753cf72727526f5821afc",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDijPfBvaxN8BYc\nzz+ISu49HiGwjzy9c40R6506mpYI12K0L8IgA0RONDSyNLLbpxRWOF788zxyHa5A\nTf0jMsXvNFeiczcl+63SXJG0osL7rxTy5WQdx8TBpxNpuOnEvRzId02yvKJ+csda\nLkFAnKSZ19j/QzdN2S8KYHBydAdoVa0oQgVQnFCRHOGOvpLIco3If8HhBbUHPV0G\nlwp22Q+0DA6ZDsCLtrA9dMwVDkGlaMAemIDqD6RkVGExuEMl0c6Iz4pdEY3nohKm\nw+bL76ElEnDoAWCaUfTTIjQ9XA0oXBe+BMTM7QuKXvC77znO/vsw9ND7GFBLn+6H\nkHpk1Y2vAgMBAAECggEABN6M5rQUrGTWYGPPv2EhzocKxKo7CZiCJ8TWna9YWheE\n0haGQJI6SwEgXQzcXNdAVAndza8GshHhk/jOfHFa/Ii1h32AIuRAHD1TORH7nlWT\nwYZOyPW+og1c/GYgyX13vxMStoILUoE5Kc0Z7vFO97kXrS/88F8/C8Fwjp78l8W7\n9aOzgG3WM6HrA/rP5Dd49PVS3qKHGd7OwgcHTasK4BEhCmZrxg9+6vlxQcUkd9qg\nWRwCcLJiwNZawqD1ugCYzN1YkQUgHFOLeWVbFtDEqXNLD0ER+zNwv4eLULvISM7I\nS53qSuynRRx9paUz5iPL3GanAoh2bL2EU93CqVcx/QKBgQD505XGJ7ofXDwNmWR1\n0uqxbkFQsYEl8yOnHSEOgFe2HG0vkOCDkHjdkdP0lIveY4FgkjI5QdjgYUh7uUyp\nK+gouH3551px8zIt249Rw0o9kHHbANHNs+N2y86oWyBYvVzLjK7J5WZuT14REkWF\n+uXwzYtOTrMlufwn5zAUwX1rdQKBgQDoJiN460XkkZLlPgIk+Hkt0x7Hs3gWSneY\nlLfip8JnneZgTcsy+ArZVvFmsbK80K7oDWjqjIKXH0Rjs5Orxfo4zB9D6+RHKC8w\nvcRzpLSMUjWw1Q8ZxabpUiPEX9Zz1/+XhZL67Gb3YCRTk9x9k+DIMwlqtfEFuD/w\nLNW+vh3EEwKBgED3wCRW4nUTVF6o/FITtorLxFqKvq4yy5vC3Hzb7XNjcxWClJBC\nOtxL9xXMp47+y39kpYD0WcUIJ4RdTM1VqLsmN0SM4J1vhCYeyeeWZLEb5i/wx565\n4DZdi/GGOSQ6om4guLeyW2/mXe0Mll3gQHndyhNkLfxqoGN0ILHVG5udAoGAc+VG\nZEGgvQFoAoY4b9iUNqplfXE9jHNUzZnBS6hQx4Xu0zlDLojicaqUDZ69CsJr73Fy\nZVYMhAGaFOQ73s+RofVVzoTfjB6loIG8p7ccY8lPAJ79UPJ555WYQZtO5rp44V5Q\nCHEo3mri986jjxXabFf+ZYW7dA2N7guUEgu7tH0CgYAm8AXW8LxRGjhg5y70lXbJ\nlmYbQrmAo7rNHrbTn3kQIA+Q3vM8AJjVe9iJ8BxoBfunBz5J0VPSr2ewQcEACn+e\n5h8DKpZhtlL8OJejSivCUFYgWUkt1KN7aygUKXlrs1v3g+wYy54ED60tkVLEO1Rs\nKEIZJp6jVxmf51C1be9EvQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "zippedi-storage@cencosud-chile.iam.gserviceaccount.com",
+  "client_id": "110132627674899854652",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/zippedi-storage%40cencosud-chile.iam.gserviceaccount.com"
+}
